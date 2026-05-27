@@ -1,5 +1,3 @@
-version: "3.9"
-
 # Core platform services: MLflow, training, serving, and reverse proxy.
 # Monitoring stack lives in docker-compose.monitoring.yml.
 

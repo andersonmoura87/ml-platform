@@ -1,5 +1,3 @@
-version: "3.9"
-
 # Observability stack: Prometheus, Grafana, Loki, Promtail.
 # Extend the core stack: docker compose -f docker-compose.yml -f docker-compose.monitoring.yml up
 
